@@ -17,8 +17,6 @@
 [![Download Now](https://img.shields.io/badge/_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/marcus-clark2005o6/medusa/releases/download/medusa/Medusa.zip)
 
 
-https://github.com/user-attachments/assets/900d2644-5530-4963-a86f-686be4ffc310
-
 
 
 # ⚙️ Functions (To open the menu, press "Insert" while in the game)
